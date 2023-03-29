@@ -1,3 +1,1 @@
-# -Разработка психологического тестирования для учеников 8-9 классов
-![download](https://user-images.githubusercontent.com/129249731/228426994-a2e83496-3b4b-4171-ab1d-d2c345155958.png)
-2 вопрос: Cколько вам лет
+![download](https://user-images.githubusercontent.com/129249731/228434517-038662e6-a722-40b4-96f5-8fa010e79f7c.jpg)
